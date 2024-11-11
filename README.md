@@ -19,7 +19,9 @@ This is your final opportunity to reconsider your answers to the last few assign
 1. Autocorrelation metrics:
 
 (a) What can a Ripley's K curve tell you about spatial autocorrelation? 
+
 (b) What about Moran's I? 
+
 (c) Look at the posted answers for assignment 8. What do the Ripley's K curve and the Moran's I slope shown there tell you about the spatial autocorrelation of the data? 
 
 2. When kriging, you need both a spatial trend surface and an experimental variogram. What is the role of each of these components in kriging?
@@ -33,7 +35,9 @@ This is your final opportunity to reconsider your answers to the last few assign
 6. We've covered 3 of the 4 sections of this course so far: 
 
 (a) Getting Started: What is spatial analysis and how do we do it in R?
+
 (b) Spatial Data Operations in R: Prepping geospatial data for use in R
+
 (c) Statistical Workflows for Spatial Data: Putting spatial data to work!
 
 As you think back across these sections, what is one topic/workflow you feel very confident doing? What topic/workflow that you expect to use in your research are you least confident in? What strategies do you think will help you feel more confident? What support could I or another spatial data expert provide that might help?
